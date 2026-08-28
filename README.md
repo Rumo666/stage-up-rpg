@@ -9,11 +9,10 @@ Die verbindliche Entwicklungsgrundlage ist die unveränderte
 
 ## Projektstatus
 
-Das Repository ist auf Grundlage der Systembibel v0.1 initialisiert. Mit der
-[`Charaktererschaffung`](regeln/starter/charaktererschaffung.md) und dem
-[`Charakterbogen`](charaktere/boegen/charakterbogen.md) steht der erste
-Entwicklungsschritt als spielbarer Entwurf bereit. Die in der Systembibel als
-offen gekennzeichneten Werte bleiben bis zu ihrer Erprobung vorläufig.
+Das Repository ist auf Grundlage der Systembibel v0.1 initialisiert. Regeln,
+Figurenmaterial, Abenteuer und Spielmaterial werden in den dafür vorgesehenen
+Bereichen schrittweise ausgearbeitet. Die in der Systembibel als offen
+gekennzeichneten Werte bleiben bis zu ihrer Erprobung vorläufig.
 
 ## Verzeichnisstruktur
 
@@ -46,6 +45,13 @@ Gemäß Systembibel folgen als Nächstes:
 2. der Gruppenbogen,
 3. drei flexible Begleitfiguren-Bausteine,
 4. Abenteuer 1: **Der erste Trainingstag**.
+Gemäß Systembibel werden als Nächstes entwickelt:
+
+1. die vollständige, leicht geführte Charaktererschaffung,
+2. sechs Rollenpakete mit späteren Spezialtalenten,
+3. der Gruppenbogen,
+4. drei flexible Begleitfiguren-Bausteine,
+5. Abenteuer 1: **Der erste Trainingstag**.
 
 ## Mitarbeit
 
