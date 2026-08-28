@@ -9,6 +9,12 @@ Die verbindliche Entwicklungsgrundlage ist die unveränderte
 
 ## Projektstatus
 
+Das Repository ist auf Grundlage der Systembibel v0.1 initialisiert. Mit der
+[`Charaktererschaffung`](regeln/starter/charaktererschaffung.md), den sechs
+[`Rollenpaketen`](regeln/starter/rollenpakete.md) und dem
+[`Charakterbogen`](charaktere/boegen/charakterbogen.md) stehen die ersten beiden
+Entwicklungsschritte als spielbare Entwürfe bereit. Die in der Systembibel als
+offen gekennzeichneten Werte bleiben bis zu ihrer Erprobung vorläufig.
 Das Repository ist auf Grundlage der Systembibel v0.1 initialisiert. Regeln,
 Figurenmaterial, Abenteuer und Spielmaterial werden in den dafür vorgesehenen
 Bereichen schrittweise ausgearbeitet. Die in der Systembibel als offen
@@ -41,6 +47,9 @@ vorgesehene Position in Git erhalten bleibt.
 
 Gemäß Systembibel folgen als Nächstes:
 
+1. der Gruppenbogen,
+2. drei flexible Begleitfiguren-Bausteine,
+3. Abenteuer 1: **Der erste Trainingstag**.
 1. sechs Rollenpakete mit späteren Spezialtalenten,
 2. der Gruppenbogen,
 3. drei flexible Begleitfiguren-Bausteine,

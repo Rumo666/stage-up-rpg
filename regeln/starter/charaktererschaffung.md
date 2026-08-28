@@ -67,6 +67,10 @@ Wähle die Rolle, in der dein Idol zunächst gesehen werden möchte:
 - **Allrounder**
 
 Die Rolle bestimmt weder Persönlichkeit noch Geschlecht und sperrt keine
+Fähigkeit. Sie hilft dabei, den stärksten Fähigkeitswürfel zu wählen. Wenn du die
+Würfel nicht frei verteilen möchtest, kannst du das passende
+[`Rollenpaket`](rollenpakete.md) übernehmen. Das dort genannte Spezialtalent wird
+erst mit Abenteuer 4 freigeschaltet.
 Fähigkeit. Sie ist vorerst ein Wunsch und hilft dabei, den stärksten
 Fähigkeitswürfel zu wählen. Rollenpakete und Spezialtalente werden in einem
 späteren Entwicklungsschritt ergänzt.
@@ -83,6 +87,7 @@ Jede Fähigkeit erhält genau einen Würfel. Verteile:
 Diese Verteilung ist laut Systembibel vorläufig und wird im ersten Testspiel
 überprüft.
 
+### Geführte freie Verteilung
 ### Geführte Verteilung
 
 1. Gib der Fähigkeit, die deine Rolle am deutlichsten zeigt, den **W10**.
@@ -109,6 +114,11 @@ ihnen trotzdem schon hohe oder niedrige Würfel geben.
 
 > **Plausibilitätscheck:** Auf deinem Bogen müssen genau zehn Fähigkeitswürfel
 > stehen: 1 × W10, 2 × W8, 4 × W6 und 3 × W4.
+
+Wenn du ein Rollenpaket benutzt, darfst du danach zwei Würfel gleicher Größe
+miteinander tauschen. Dadurch bleibt die Verteilung unverändert, aber dein Idol
+erhält eine persönliche Note. Das Spezialtalent ändert sich durch den Tausch
+nicht.
 
 ## Schritt 4: Herz und Haken
 
