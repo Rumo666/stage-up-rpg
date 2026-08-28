@@ -39,6 +39,12 @@ vorgesehene Position in Git erhalten bleibt.
 
 ## Nächste Entwicklungsschritte
 
+Gemäß Systembibel folgen als Nächstes:
+
+1. sechs Rollenpakete mit späteren Spezialtalenten,
+2. der Gruppenbogen,
+3. drei flexible Begleitfiguren-Bausteine,
+4. Abenteuer 1: **Der erste Trainingstag**.
 Gemäß Systembibel werden als Nächstes entwickelt:
 
 1. die vollständige, leicht geführte Charaktererschaffung,
