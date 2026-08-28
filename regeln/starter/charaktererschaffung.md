@@ -71,6 +71,9 @@ Fähigkeit. Sie hilft dabei, den stärksten Fähigkeitswürfel zu wählen. Wenn 
 Würfel nicht frei verteilen möchtest, kannst du das passende
 [`Rollenpaket`](rollenpakete.md) übernehmen. Das dort genannte Spezialtalent wird
 erst mit Abenteuer 4 freigeschaltet.
+Fähigkeit. Sie ist vorerst ein Wunsch und hilft dabei, den stärksten
+Fähigkeitswürfel zu wählen. Rollenpakete und Spezialtalente werden in einem
+späteren Entwicklungsschritt ergänzt.
 
 ## Schritt 3: Fähigkeitswürfel verteilen
 
@@ -85,6 +88,7 @@ Diese Verteilung ist laut Systembibel vorläufig und wird im ersten Testspiel
 überprüft.
 
 ### Geführte freie Verteilung
+### Geführte Verteilung
 
 1. Gib der Fähigkeit, die deine Rolle am deutlichsten zeigt, den **W10**.
 2. Wähle zwei weitere klare Stärken und gib ihnen je einen **W8**.
