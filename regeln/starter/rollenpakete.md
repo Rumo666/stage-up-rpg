@@ -31,6 +31,10 @@ Verteilung aus der Charaktererschaffung.
 Nach der Wahl dürfen die Würfel **zweier Fähigkeiten** miteinander getauscht
 werden. Beispiel: Ein Main Vocal darf den W8 von Fitness mit dem W6 von Tanz
 tauschen. Anzahl und Größen der Würfel im Gesamtpaket bleiben gleich.
+Nach der Wahl dürfen zwei Würfel **gleicher Größe** miteinander getauscht werden.
+Beispiel: Ein Main Vocal darf den W8 von Fitness auf Tanz verschieben, wenn dafür
+Tanzs bisheriger W6 auf Fitness wechselt. Anzahl und Größen der Würfel bleiben
+gleich.
 
 ## Leader
 
