@@ -13,14 +13,16 @@ Das Repository ist auf Grundlage der Systembibel v0.1 initialisiert. Mit der
 [`Charaktererschaffung`](regeln/starter/charaktererschaffung.md), den sechs
 [`Rollenpaketen`](regeln/starter/rollenpakete.md) und dem
 [`Charakterbogen`](charaktere/boegen/charakterbogen.md) sowie dem
-[`Gruppenbogen`](charaktere/boegen/gruppenbogen.md) stehen die Grundlagen der
-Figuren und Gruppe als spielbare Entwürfe bereit. Drei flexible
-[`Begleitfiguren-Bausteine`](charaktere/begleitfiguren/bausteine.md) ergänzen die
-Besetzung. Das vollständige erste Abenteuer
-[`Der erste Trainingstag`](abenteuer/lernkampagne/01_der_erste_trainingstag.md)
-kann mit Regelkarte, Ablaufplan und Playtest-Protokoll direkt getestet werden.
-Die in der Systembibel als offen gekennzeichneten Werte bleiben bis zu ihrer
-Erprobung vorläufig.
+[`Gruppenbogen`](charaktere/boegen/gruppenbogen.md) stehen die ersten drei
+Entwicklungsschritte als spielbare Entwürfe bereit. Die in der Systembibel als
+offen gekennzeichneten Werte bleiben bis zu ihrer Erprobung vorläufig.
+[`Charakterbogen`](charaktere/boegen/charakterbogen.md) stehen die ersten beiden
+Entwicklungsschritte als spielbare Entwürfe bereit. Die in der Systembibel als
+offen gekennzeichneten Werte bleiben bis zu ihrer Erprobung vorläufig.
+Das Repository ist auf Grundlage der Systembibel v0.1 initialisiert. Regeln,
+Figurenmaterial, Abenteuer und Spielmaterial werden in den dafür vorgesehenen
+Bereichen schrittweise ausgearbeitet. Die in der Systembibel als offen
+gekennzeichneten Werte bleiben bis zu ihrer Erprobung vorläufig.
 
 ## Verzeichnisstruktur
 
@@ -33,7 +35,6 @@ Erprobung vorläufig.
 │   └── regelkarten/          Schrittweise freischaltbare Regelkarten
 ├── charaktere/
 │   ├── boegen/               Charakter- und Gruppenbögen
-│   ├── begleitfiguren/       Flexible Bausteine für unterstützende Figuren
 │   └── schnellstart/         Vorgefertigte Figuren und Gastrollen
 ├── abenteuer/
 │   └── lernkampagne/         Abenteuer der achtteiligen Lernkampagne
@@ -48,10 +49,24 @@ vorgesehene Position in Git erhalten bleibt.
 
 ## Nächste Entwicklungsschritte
 
-Die fünf in der Systembibel vorgesehenen ersten Entwicklungsschritte sind als
-spielbare Entwürfe umgesetzt. Als Nächstes wird **Der erste Trainingstag**
-getestet. Seine Beobachtungen bilden die Grundlage für dokumentierte Anpassungen
-und für Abenteuer 2: **Das monatliche Casting** mit der Teamwork-Regel.
+Gemäß Systembibel folgen als Nächstes:
+
+1. drei flexible Begleitfiguren-Bausteine,
+2. Abenteuer 1: **Der erste Trainingstag**.
+1. der Gruppenbogen,
+2. drei flexible Begleitfiguren-Bausteine,
+3. Abenteuer 1: **Der erste Trainingstag**.
+1. sechs Rollenpakete mit späteren Spezialtalenten,
+2. der Gruppenbogen,
+3. drei flexible Begleitfiguren-Bausteine,
+4. Abenteuer 1: **Der erste Trainingstag**.
+Gemäß Systembibel werden als Nächstes entwickelt:
+
+1. die vollständige, leicht geführte Charaktererschaffung,
+2. sechs Rollenpakete mit späteren Spezialtalenten,
+3. der Gruppenbogen,
+4. drei flexible Begleitfiguren-Bausteine,
+5. Abenteuer 1: **Der erste Trainingstag**.
 
 ## Mitarbeit
 
