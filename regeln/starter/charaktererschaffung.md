@@ -115,6 +115,10 @@ ihnen trotzdem schon hohe oder niedrige Würfel geben.
 > **Plausibilitätscheck:** Auf deinem Bogen müssen genau zehn Fähigkeitswürfel
 > stehen: 1 × W10, 2 × W8, 4 × W6 und 3 × W4.
 
+Wenn du ein Rollenpaket benutzt, darfst du danach die Würfel zweier Fähigkeiten
+miteinander tauschen. Dadurch bleibt die Gesamtverteilung unverändert, aber dein
+Idol erhält eine persönliche Note. Das Spezialtalent ändert sich durch den
+Tausch nicht.
 Wenn du ein Rollenpaket benutzt, darfst du danach zwei Würfel gleicher Größe
 miteinander tauschen. Dadurch bleibt die Verteilung unverändert, aber dein Idol
 erhält eine persönliche Note. Das Spezialtalent ändert sich durch den Tausch
@@ -173,6 +177,12 @@ Stellt reihum eure Idols in höchstens einer Minute vor. Nennt:
 
 Danach darf jede Person genau eine neugierige, wohlwollende Frage stellen. Die
 Antwort gehört immer der Person, die das Idol spielt.
+
+Füllt anschließend gemeinsam den
+[`Gruppenbogen`](../../charaktere/boegen/gruppenbogen.md) aus. Für den Start
+genügen die Abschnitte **Unsere Gruppe**, **Mitglieder**, **Was uns verbindet** und
+**Unser Anfang bei Aurora Entertainment**. Alle später freigeschalteten Werte
+bleiben leer.
 
 ## Abschlusscheck
 
