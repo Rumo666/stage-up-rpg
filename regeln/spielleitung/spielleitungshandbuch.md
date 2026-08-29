@@ -26,12 +26,6 @@ Verwendet die [Charaktererschaffung](../starter/charaktererschaffung.md) oder di
 [Gruppenbogen](../../charaktere/boegen/gruppenbogen.md) nur in den bereits
 freigeschalteten Bereichen aus.
 
-Für eine neue Person in einer laufenden Folge stehen
-[Gastfiguren](../../charaktere/schnellstart/gastfiguren.md) und ein
-[Gast-Einstiegsbogen](../../handouts/gast_einstieg.md) bereit. Erkläre nur die bis
-zur aktuellen Folge freigeschalteten Regeln und plane auch für die Gastfigur eine
-persönliche Szene, eine Entscheidung und einen Finalbeitrag.
-
 ## 2. Eine Probe leiten
 
 Würfle nur, wenn Ausgang und Folge interessant sind.
@@ -179,16 +173,3 @@ aktuellen Karriere-, Herz- und Geheimnisfäden dienen.
 Die Grundsätze bleiben gleich: Druck ist lösbar, Wendungen halten die Geschichte
 in Bewegung, Beziehungen bleiben freiwillig, Begleitfiguren unterstützen und
 alle Hauptfiguren erhalten Spotlight.
-
-## 10. Gäste und wechselnde Besetzung
-
-- Sage in einem Satz, warum die Gastfigur heute mitarbeitet.
-- Gib ihr keine geheime Lösung und keine Autorität über die bestehende Gruppe.
-- Lass die Gastperson eine Verbindung anbieten, nie festlegen.
-- Gleiche Energie und Erholung an den vereinbarten Stand der Gruppe an.
-- Stelle vor der Schlussszene sicher, dass Gast- und Stammfiguren je einen
-  wichtigen Beitrag besitzen.
-- Notiere Entwicklung nur, wenn die Figur wahrscheinlich wiederkehrt.
-
-Eine Gastperson muss die früheren Abenteuer nicht nachlesen. Regelkarte und
-Starterheft-Abschnitt der aktuellen Folge genügen.
