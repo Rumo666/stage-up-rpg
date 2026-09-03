@@ -69,3 +69,26 @@ automatisierten Mitwirkenden.
   sowie noch offene Punkte oder bewusste Abweichungen.
 - Inhaltliche Änderungen sollen klein, nachvollziehbar und getrennt von rein
   strukturellen Änderungen bleiben.
+
+## 6. Konfliktfreie Pull Requests
+
+- Ein neuer Arbeitszweig wird **immer vom aktuellen Zielzweig** erstellt. Nach
+  einem Merge wird ein bereits verwendeter Arbeitszweig nicht einfach
+  weitergeführt.
+- Vor Beginn des nächsten Entwicklungsschritts wird der Zielzweig aktualisiert.
+  Der neue Arbeitszweig basiert auf genau diesem Stand.
+- Unmittelbar vor dem Pull Request wird der Arbeitszweig erneut auf den aktuellen
+  Zielzweig gebracht. Dabei auftretende Konflikte werden im Arbeitszweig gelöst,
+  nicht erst beim Merge des Pull Requests.
+- Nach jeder Konfliktlösung werden alle betroffenen Dateien vollständig geprüft.
+  Insbesondere dürfen weder Inhalte der Systembibel überschrieben noch bereits
+  gemergte Spielmaterialien versehentlich entfernt werden.
+- Vor dem Pull Request muss
+  `scripts/pr_vorbereitung.sh <Zielzweig-Referenz>` erfolgreich durchlaufen. Die
+  Zielzweig-Referenz kann beispielsweise `origin/main` sein.
+- Der Pull Request wird erst erstellt, wenn der Arbeitsbaum sauber ist, keine
+  Konfliktmarkierungen vorhanden sind und Git den Zweig konfliktfrei mit dem
+  angegebenen Zielstand zusammenführen kann.
+- Ist der Zielzweig im Arbeitscontainer nicht vorhanden oder nicht aktuell, wird
+  **kein vermeintlich konfliktfreier Stand behauptet**. Zuerst muss die aktuelle
+  Referenz verfügbar gemacht werden.
