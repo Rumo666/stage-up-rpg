@@ -34,6 +34,16 @@ Entwicklung ein. Danach unterstützt eine
 freie Kampagne.
 Die in der Systembibel als offen gekennzeichneten Werte bleiben bis zu ihrer
 Erprobung vorläufig.
+[`Gruppenbogen`](charaktere/boegen/gruppenbogen.md) stehen die ersten drei
+Entwicklungsschritte als spielbare Entwürfe bereit. Die in der Systembibel als
+offen gekennzeichneten Werte bleiben bis zu ihrer Erprobung vorläufig.
+[`Charakterbogen`](charaktere/boegen/charakterbogen.md) stehen die ersten beiden
+Entwicklungsschritte als spielbare Entwürfe bereit. Die in der Systembibel als
+offen gekennzeichneten Werte bleiben bis zu ihrer Erprobung vorläufig.
+Das Repository ist auf Grundlage der Systembibel v0.1 initialisiert. Regeln,
+Figurenmaterial, Abenteuer und Spielmaterial werden in den dafür vorgesehenen
+Bereichen schrittweise ausgearbeitet. Die in der Systembibel als offen
+gekennzeichneten Werte bleiben bis zu ihrer Erprobung vorläufig.
 
 ## Verzeichnisstruktur
 
@@ -95,6 +105,24 @@ direkt kopierbare
 [Adobe-Firefly-Anleitung mit Motiv-Prompts](medien/bilder/adobe_firefly_anleitung.md)
 bereit. Sie enthält einen gemeinsamen Bildstil, einen Negativprompt,
 Seitenverhältnisse und einen Qualitätscheck für die spätere Auswahl.
+Gemäß Systembibel folgen als Nächstes:
+
+1. drei flexible Begleitfiguren-Bausteine,
+2. Abenteuer 1: **Der erste Trainingstag**.
+1. der Gruppenbogen,
+2. drei flexible Begleitfiguren-Bausteine,
+3. Abenteuer 1: **Der erste Trainingstag**.
+1. sechs Rollenpakete mit späteren Spezialtalenten,
+2. der Gruppenbogen,
+3. drei flexible Begleitfiguren-Bausteine,
+4. Abenteuer 1: **Der erste Trainingstag**.
+Gemäß Systembibel werden als Nächstes entwickelt:
+
+1. die vollständige, leicht geführte Charaktererschaffung,
+2. sechs Rollenpakete mit späteren Spezialtalenten,
+3. der Gruppenbogen,
+4. drei flexible Begleitfiguren-Bausteine,
+5. Abenteuer 1: **Der erste Trainingstag**.
 
 ## Mitarbeit
 
